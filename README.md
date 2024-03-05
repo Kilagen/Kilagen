@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there. I'm using WhatsApp 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/kil4gen?theme=nord&font=Sarpanch&ext=heatmap)
 <!--
 **Kilagen/Kilagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
